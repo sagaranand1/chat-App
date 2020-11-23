@@ -1,1 +1,3 @@
 node_modules
+.ssh/id_rsa
+.ssh_known_hosts
